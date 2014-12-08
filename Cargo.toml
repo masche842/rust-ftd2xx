@@ -1,0 +1,6 @@
+[package]
+
+name = "rust-ftd2xx"
+version = "0.0.1"
+authors = ["Marc Schettke <schettke@ms2.info>"]
+
